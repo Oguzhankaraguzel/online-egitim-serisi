@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\bin\Debug\IlkProjem.ConsoleApp.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\bin\Debug\IlkProjem.ConsoleApp.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\bin\Debug\IlkProjem.ConsoleApp.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\obj\Debug\IlkProjem.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\obj\Debug\IlkProjem.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\obj\Debug\IlkProjem.ConsoleApp.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\IlkProjem\IlkProjem.ConsoleApp\obj\Debug\IlkProjem.ConsoleApp.pdb
