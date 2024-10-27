@@ -10,7 +10,9 @@ namespace IlkProjem.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("İlk Projemi Çalıştırdım");
+            Console.WriteLine("Çalışır");
+            Console.WriteLine("Senkron");
+            Console.WriteLine("Program");
             Console.Read();
         }
     }
