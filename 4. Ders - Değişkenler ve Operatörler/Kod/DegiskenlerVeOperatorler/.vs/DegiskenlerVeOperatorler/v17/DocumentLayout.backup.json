@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\4. Ders - De\u011Fi\u015Fkenler ve Operat\u00F6rler\\Kod\\DegiskenlerVeOperatorler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A889171B-0004-46DB-BB87-C0AAD0A851D3}|DegiskenlerVeOperatorler\\DegiskenlerVeOperatorler.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\4. ders - de\u011Fi\u015Fkenler ve operat\u00F6rler\\kod\\degiskenlerveoperatorler\\degiskenlerveoperatorler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A889171B-0004-46DB-BB87-C0AAD0A851D3}|DegiskenlerVeOperatorler\\DegiskenlerVeOperatorler.csproj|solutionrelative:degiskenlerveoperatorler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\4. Ders - De\u011Fi\u015Fkenler ve Operat\u00F6rler\\Kod\\DegiskenlerVeOperatorler\\DegiskenlerVeOperatorler\\Program.cs",
+              "RelativeDocumentMoniker": "DegiskenlerVeOperatorler\\Program.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\4. Ders - De\u011Fi\u015Fkenler ve Operat\u00F6rler\\Kod\\DegiskenlerVeOperatorler\\DegiskenlerVeOperatorler\\Program.cs",
+              "RelativeToolTip": "DegiskenlerVeOperatorler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:52:04.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
