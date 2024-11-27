@@ -1,0 +1,10 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\obj\Debug\DegiskenlerVeOperatorler.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\obj\Debug\DegiskenlerVeOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\bin\Debug\DegiskenlerVeOperatorler.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\bin\Debug\DegiskenlerVeOperatorler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\bin\Debug\DegiskenlerVeOperatorler.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\obj\Debug\DegiskenlerVeOperatorler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\obj\Debug\DegiskenlerVeOperatorler.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\4. Ders - Değişkenler ve Operatörler\Kod\DegiskenlerVeOperatorler\DegiskenlerVeOperatorler\obj\Debug\Degisken.88CA4441.Up2Date
