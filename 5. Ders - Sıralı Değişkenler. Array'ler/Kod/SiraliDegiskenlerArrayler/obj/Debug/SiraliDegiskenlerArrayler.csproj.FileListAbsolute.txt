@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\bin\Debug\SiraliDegiskenlerArrayler.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\bin\Debug\SiraliDegiskenlerArrayler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\bin\Debug\SiraliDegiskenlerArrayler.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\obj\Debug\SiraliDegiskenlerArrayler.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\obj\Debug\SiraliDegiskenlerArrayler.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\obj\Debug\SiraliDegiskenlerArrayler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\5. Ders - Sıralı Değişkenler. Array'ler\Kod\SiraliDegiskenlerArrayler\obj\Debug\SiraliDegiskenlerArrayler.pdb
