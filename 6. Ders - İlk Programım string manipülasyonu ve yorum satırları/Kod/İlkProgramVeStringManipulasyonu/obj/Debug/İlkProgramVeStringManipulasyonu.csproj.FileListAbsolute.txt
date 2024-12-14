@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.pdb
