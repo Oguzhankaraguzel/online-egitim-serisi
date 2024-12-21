@@ -5,3 +5,10 @@ C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeSt
 C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.csproj.CoreCompileInputs.cache
 C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.exe
 C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\6. Ders\Kod\İlkProgramVeStringManipulasyonu\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\bin\Debug\İlkProgramVeStringManipulasyonu.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\6. Ders - İlk Programım string manipülasyonu ve yorum satırları\Kod\İlkProgramVeStringManipulasyonu\obj\Debug\İlkProgramVeStringManipulasyonu.pdb

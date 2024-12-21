@@ -9,10 +9,9 @@ namespace İlkProgramVeStringManipulasyonu
         {
             Console.WriteLine("Lütfen Adınızı Giriniz");
             string isim = Console.ReadLine();
-            char[] karakterler = isim.ToCharArray();
-            Array.Reverse(karakterler);
-            string tersIsim = new string(karakterler);
-            Console.WriteLine($"Merhaba,{isim}! Programlama dünyasına hoş geldin.\nBugün seninle string manipülasyonu öğreneceğiz, Hazır mısın {isim}?\nTers çevrilmiş isminiz: {tersIsim}");
+            Console.WriteLine($"Merhaba, {isim}! Programlama dünyasına hoş geldin.\nBugün seninle string manipülasyonu öğreneceğiz, Hazır mısın {isim}?\nTers çevrilmiş isminiz: {new string(isim.ToCharArray()
+                                                                     .Reverse()
+                                                                     .ToArray())}");
             Console.Read();
         }
     }
