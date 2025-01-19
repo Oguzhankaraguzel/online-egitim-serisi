@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\8. ders - kontrol yap\u0131lar\u0131 ve ak\u0131\u015F kontrol\u00FC\\kod\\kontrolyapilariveakiskontolu\\kontrolyapilariveakiskontolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|solutionrelative:kontrolyapilariveakiskontolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu\\Program.cs",
+              "RelativeDocumentMoniker": "kontrolYapilariVeAkisKontolu\\Program.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu\\Program.cs*",
+              "RelativeToolTip": "kontrolYapilariVeAkisKontolu\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T23:29:31.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
