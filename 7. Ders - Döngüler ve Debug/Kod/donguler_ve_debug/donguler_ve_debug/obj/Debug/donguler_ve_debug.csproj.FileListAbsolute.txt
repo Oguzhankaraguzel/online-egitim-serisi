@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\bin\Debug\donguler_ve_debug.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\bin\Debug\donguler_ve_debug.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\bin\Debug\donguler_ve_debug.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\obj\Debug\donguler_ve_debug.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\obj\Debug\donguler_ve_debug.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\obj\Debug\donguler_ve_debug.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\7. Ders - Döngüler ve Debug\Kod\donguler_ve_debug\donguler_ve_debug\obj\Debug\donguler_ve_debug.pdb

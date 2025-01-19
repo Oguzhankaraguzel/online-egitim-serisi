@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\bin\Release\IlkProjem.ConsoleApp.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\bin\Release\IlkProjem.ConsoleApp.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\bin\Release\IlkProjem.ConsoleApp.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\obj\Release\IlkProjem.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\obj\Release\IlkProjem.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\obj\Release\IlkProjem.ConsoleApp.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\1.Ders - Geliştirme ortamına giriş\IlkProjem\IlkProjem.ConsoleApp\obj\Release\IlkProjem.ConsoleApp.pdb
