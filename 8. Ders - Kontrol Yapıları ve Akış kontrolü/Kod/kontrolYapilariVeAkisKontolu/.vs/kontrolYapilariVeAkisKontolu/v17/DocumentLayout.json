@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\8. ders - kontrol yap\u0131lar\u0131 ve ak\u0131\u015F kontrol\u00FC\\kod\\kontrolyapilariveakiskontolu\\kontrolyapilariveakiskontolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|solutionrelative:kontrolyapilariveakiskontolu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolyapilariveakiskontolu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72B46F3A-CAF8-463E-B59A-35BA2C6F6B04}|kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu.csproj|solutionrelative:kontrolyapilariveakiskontolu\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu\\App.config",
+              "RelativeDocumentMoniker": "kontrolYapilariVeAkisKontolu\\App.config",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu\\App.config",
+              "RelativeToolTip": "kontrolYapilariVeAkisKontolu\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-21T01:34:25.726Z"
             },
             {
               "$type": "Document",
@@ -28,7 +44,7 @@
               "RelativeDocumentMoniker": "kontrolYapilariVeAkisKontolu\\Program.cs",
               "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\8. Ders - Kontrol Yap\u0131lar\u0131 ve Ak\u0131\u015F kontrol\u00FC\\Kod\\kontrolYapilariVeAkisKontolu\\kontrolYapilariVeAkisKontolu\\Program.cs",
               "RelativeToolTip": "kontrolYapilariVeAkisKontolu\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T23:29:31.901Z",
               "EditorCaption": ""
