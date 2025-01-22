@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\bin\Debug\TekmiCiftmi.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\Soru Çözümü\Tek mi Çift mi\TekmiCiftmi\TekmiCiftmi\obj\Debug\TekmiCiftmi.pdb
