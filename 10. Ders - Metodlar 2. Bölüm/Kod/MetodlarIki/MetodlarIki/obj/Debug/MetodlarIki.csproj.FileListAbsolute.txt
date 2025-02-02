@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\bin\Debug\MetodlarIki.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\bin\Debug\MetodlarIki.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\bin\Debug\MetodlarIki.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\obj\Debug\MetodlarIki.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\obj\Debug\MetodlarIki.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\obj\Debug\MetodlarIki.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\10. Ders - Metodlar 2. Bölüm\Kod\MetodlarIki\MetodlarIki\obj\Debug\MetodlarIki.pdb

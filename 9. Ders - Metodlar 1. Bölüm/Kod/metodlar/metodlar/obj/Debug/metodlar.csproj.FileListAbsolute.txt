@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\bin\Debug\metodlar.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\bin\Debug\metodlar.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\bin\Debug\metodlar.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\obj\Debug\metodlar.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\obj\Debug\metodlar.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\obj\Debug\metodlar.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\9. Ders - Metodlar 1. Bölüm\Kod\metodlar\metodlar\obj\Debug\metodlar.pdb
