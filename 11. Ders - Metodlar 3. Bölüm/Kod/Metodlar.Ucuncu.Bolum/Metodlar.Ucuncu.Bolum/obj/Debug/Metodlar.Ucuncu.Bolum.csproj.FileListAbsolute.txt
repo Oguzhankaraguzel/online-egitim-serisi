@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\bin\Debug\Metodlar.Ucuncu.Bolum.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\bin\Debug\Metodlar.Ucuncu.Bolum.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\bin\Debug\Metodlar.Ucuncu.Bolum.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\obj\Debug\Metodlar.Ucuncu.Bolum.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\obj\Debug\Metodlar.Ucuncu.Bolum.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\obj\Debug\Metodlar.Ucuncu.Bolum.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\11. Ders\Kod\Metodlar.Ucuncu.Bolum\Metodlar.Ucuncu.Bolum\obj\Debug\Metodlar.Ucuncu.Bolum.pdb
