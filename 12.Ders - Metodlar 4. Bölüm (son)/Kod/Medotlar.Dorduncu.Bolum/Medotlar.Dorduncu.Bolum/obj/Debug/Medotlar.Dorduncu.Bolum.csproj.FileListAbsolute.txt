@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\obj\Debug\Medotlar.Dorduncu.Bolum.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\obj\Debug\Medotlar.Dorduncu.Bolum.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\bin\Debug\Medotlar.Dorduncu.Bolum.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\bin\Debug\Medotlar.Dorduncu.Bolum.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\bin\Debug\Medotlar.Dorduncu.Bolum.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\obj\Debug\Medotlar.Dorduncu.Bolum.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\12. Ders\Kod\Medotlar.Dorduncu.Bolum\Medotlar.Dorduncu.Bolum\obj\Debug\Medotlar.Dorduncu.Bolum.pdb
