@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\bin\Debug\Gelismis_Tipler.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\bin\Debug\Gelismis_Tipler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\bin\Debug\Gelismis_Tipler.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\obj\Debug\Gelismis_Tipler.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\obj\Debug\Gelismis_Tipler.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\obj\Debug\Gelismis_Tipler.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_Tipler\Gelismis_Tipler\obj\Debug\Gelismis_Tipler.pdb

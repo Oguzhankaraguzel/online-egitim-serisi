@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gelismis_Tipler_Dict", "Gelismis_Tipler_Dict\Gelismis_Tipler_Dict.csproj", "{CF68813C-F152-444B-8659-D600C6F85B8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF68813C-F152-444B-8659-D600C6F85B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF68813C-F152-444B-8659-D600C6F85B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF68813C-F152-444B-8659-D600C6F85B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF68813C-F152-444B-8659-D600C6F85B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {021BFB1F-7F85-4556-A7C8-54D0A7597BCC}
+	EndGlobalSection
+EndGlobal
