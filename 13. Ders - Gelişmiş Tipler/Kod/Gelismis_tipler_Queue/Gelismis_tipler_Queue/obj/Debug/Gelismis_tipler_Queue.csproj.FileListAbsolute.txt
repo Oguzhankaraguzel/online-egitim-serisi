@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\bin\Debug\Gelismis_tipler_Queue.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\bin\Debug\Gelismis_tipler_Queue.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\bin\Debug\Gelismis_tipler_Queue.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\obj\Debug\Gelismis_tipler_Queue.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\obj\Debug\Gelismis_tipler_Queue.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\obj\Debug\Gelismis_tipler_Queue.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\13. Ders\Kod\Gelismis_tipler_Queue\Gelismis_tipler_Queue\obj\Debug\Gelismis_tipler_Queue.pdb
