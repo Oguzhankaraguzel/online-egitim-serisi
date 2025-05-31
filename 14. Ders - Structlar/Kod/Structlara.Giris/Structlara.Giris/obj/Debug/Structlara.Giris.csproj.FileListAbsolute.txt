@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\bin\Debug\Structlara.Giris.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\bin\Debug\Structlara.Giris.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\bin\Debug\Structlara.Giris.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\obj\Debug\Structlara.Giris.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\obj\Debug\Structlara.Giris.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\obj\Debug\Structlara.Giris.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\14. ders\Kod\Structlara.Giris\Structlara.Giris\obj\Debug\Structlara.Giris.pdb
