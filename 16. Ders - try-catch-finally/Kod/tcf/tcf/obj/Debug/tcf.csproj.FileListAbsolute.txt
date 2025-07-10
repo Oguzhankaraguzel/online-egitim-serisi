@@ -1,0 +1,7 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\bin\Debug\tcf.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\bin\Debug\tcf.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\bin\Debug\tcf.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\obj\Debug\tcf.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\obj\Debug\tcf.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\obj\Debug\tcf.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\16. Ders\tcf\tcf\obj\Debug\tcf.pdb
