@@ -1,0 +1,1 @@
+txt aslında text'in kısaltmasıdır. eğer dosya adının sonuna . ile txt eklerseniz. Bunun bir metin dosyası olduğunu söylemiş olursunuz. Bu sayede işletim sistemi bu dosyayı açmak için. Bir uygulama otomatik olarak atar.

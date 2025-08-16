@@ -1,0 +1,8 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\bin\Debug\BasitDosyaOkumaYazma.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\bin\Debug\BasitDosyaOkumaYazma.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\bin\Debug\BasitDosyaOkumaYazma.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\obj\Debug\BasitDosyaOkumaYazma.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\obj\Debug\BasitDosyaOkumaYazma.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\obj\Debug\BasitDosyaOkumaYazma.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\obj\Debug\BasitDosyaOkumaYazma.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\17. Ders\Kod\BasitDosyaOkumaYazma\BasitDosyaOkumaYazma\obj\Debug\BasitDosyaOkumaYazma.exe.config
