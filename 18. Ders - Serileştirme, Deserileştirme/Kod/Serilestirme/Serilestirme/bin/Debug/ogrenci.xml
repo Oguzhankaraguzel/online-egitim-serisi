@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Ogrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ad>Ali</ad>
+  <soyad>Yatmazoğlu</soyad>
+  <no>123</no>
+</Ogrenci>

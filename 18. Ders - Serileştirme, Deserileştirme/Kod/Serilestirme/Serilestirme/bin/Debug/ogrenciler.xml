@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfOgrenci xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Ogrenci>
+    <_ad>Ali</_ad>
+    <_soyad>Veli</_soyad>
+    <_sinif>10A</_sinif>
+    <_yas>16</_yas>
+  </Ogrenci>
+  <Ogrenci>
+    <_ad>Ayse</_ad>
+    <_soyad>Fatma</_soyad>
+    <_sinif>10B</_sinif>
+    <_yas>15</_yas>
+  </Ogrenci>
+</ArrayOfOgrenci>
