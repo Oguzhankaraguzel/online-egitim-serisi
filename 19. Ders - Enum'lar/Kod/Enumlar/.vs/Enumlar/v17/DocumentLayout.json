@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\E\u011Fitim\\\u00DCcretsiz\\19. Ders\\Kod\\Enumlar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAB8C1A-1FAA-4859-8855-64E5EBFA2467}|Enumlar\\Enumlar.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\e\u011Fitim\\\u00FCcretsiz\\19. ders\\kod\\enumlar\\enumlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BAB8C1A-1FAA-4859-8855-64E5EBFA2467}|Enumlar\\Enumlar.csproj|solutionrelative:enumlar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\E\u011Fitim\\\u00DCcretsiz\\19. Ders\\Kod\\Enumlar\\Enumlar\\Program.cs",
+              "RelativeDocumentMoniker": "Enumlar\\Program.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\E\u011Fitim\\\u00DCcretsiz\\19. Ders\\Kod\\Enumlar\\Enumlar\\Program.cs",
+              "RelativeToolTip": "Enumlar\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T22:53:15.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

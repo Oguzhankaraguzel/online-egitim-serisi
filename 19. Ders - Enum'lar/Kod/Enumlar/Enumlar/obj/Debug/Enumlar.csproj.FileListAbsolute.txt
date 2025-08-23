@@ -1,0 +1,8 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\bin\Debug\Enumlar.exe.config
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\bin\Debug\Enumlar.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\bin\Debug\Enumlar.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\obj\Debug\Enumlar.csproj.AssemblyReference.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\obj\Debug\Enumlar.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\obj\Debug\Enumlar.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\obj\Debug\Enumlar.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\Eğitim\Ücretsiz\19. Ders\Kod\Enumlar\Enumlar\obj\Debug\Enumlar.exe.config
