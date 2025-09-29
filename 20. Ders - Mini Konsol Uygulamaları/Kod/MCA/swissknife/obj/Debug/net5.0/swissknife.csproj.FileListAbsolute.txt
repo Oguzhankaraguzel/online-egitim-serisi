@@ -1,0 +1,16 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.deps.json
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.runtimeconfig.json
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.runtimeconfig.dev.json
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Debug\net5.0\swissknife.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.AssemblyInfoInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.AssemblyInfo.cs
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.csproj.CoreCompileInputs.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.sourcelink.json
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\refint\swissknife.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.pdb
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\swissknife.genruntimeconfig.cache
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Debug\net5.0\ref\swissknife.dll

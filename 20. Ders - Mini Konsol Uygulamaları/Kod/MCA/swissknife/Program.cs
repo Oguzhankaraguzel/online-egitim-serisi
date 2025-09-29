@@ -1,4 +1,5 @@
-﻿using System;
+﻿using swissknife.Applications;
+using System;
 
 namespace swissknife
 {
@@ -6,7 +7,8 @@ namespace swissknife
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            MCAAplication app = new MCAAplication();
+            app.Run();
         }
     }
 }
