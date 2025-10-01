@@ -1,4 +1,6 @@
-﻿using System;
+﻿using swissknife.Services.Extensions;
+using swissknife.Services.FileServices;
+using System;
 using System.IO;
 using System.Text.Json;
 
@@ -15,41 +17,35 @@ namespace swissknife.Services.UserServices
             IncludeFields = true
         };
 
+        /// <summary>
+        /// Kullanıcı bilgilerini JSON formatında kaydeder.
+        /// </summary>
+        /// <param name="user"></param>
         public void SaveUser(UserProfile user)
         {
-            try
-            {
-                string jsonString = JsonSerializer.Serialize(user, _serializeOption);
-                if (!Directory.Exists(_dataDir))
-                {
-                    Directory.CreateDirectory(_dataDir);
-                }
-                File.WriteAllText(_userPath, jsonString);
-            }
-            catch (Exception ex)
-            {
-                throw;
-            }
+            FileService fileService = new FileService();
+
+            string jsonString = JsonSerializer.Serialize(user, _serializeOption);
+            fileService.EnsureDirectory(_dataDir);
+            File.WriteAllText(_userPath, jsonString);
         }
 
+        /// <summary>
+        /// Eğer kullanıcı bilgileri mevcutsa, JSON dosyasından okuyarak UserProfile nesnesi olarak döner.
+        /// </summary>
+        /// <returns></returns>
         public UserProfile? GetUser()
         {
-            try
-            {
-                UserProfile? user = null;
-                if (Directory.Exists(_dataDir))
-                {
-                    string userJson = File.ReadAllText(_userPath);
-                    user = JsonSerializer.Deserialize<UserProfile>(userJson, _serializeOption);
-                }
-                return user;
-            }
-            catch (Exception ex)
-            {
-                throw;
-            }
+            FileService fileService = new FileService();
+            fileService.EnsureDirectory(_dataDir);
+
+            string userJson = File.ReadAllText(_userPath);
+            return JsonSerializer.Deserialize<UserProfile>(userJson, _serializeOption);
         }
 
+        /// <summary>
+        /// Kullanıcıdan konsol üzerinden bilgi alarak yeni bir kullanıcı profili oluşturur ve kaydeder.
+        /// </summary>
         public void CreateUser()
         {
             Console.Clear();
@@ -97,120 +93,120 @@ namespace swissknife.Services.UserServices
             }
 
             SaveUser(user);
-            ApplyUserSettings();
+            ConsoleEx.Pause();
         }
 
-        public void UpdateUser()
+        /// <summary>
+        /// Kullanıcıdan konsol üzerinden bilgi alarak mevcut kullanıcı profilini günceller ve kaydeder.
+        /// </summary>
+        /// <param name="user"></param>
+        public void UpdateUser(UserProfile user)
         {
             Console.Clear();
-            UserProfile? user = GetUser();
-            if (user == null)
+            UserProfile userProfile = new UserProfile();
+
+            Console.WriteLine("Kullanıcı bilgilerini güncelleyin. Mevcut bilgileri değiştirmeden bırakmak için Enter'a basın.");
+
+            Console.WriteLine("Ad (mevcut: {0}): ", user._firstName);
+            userProfile._firstName = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(userProfile._firstName))
+                userProfile._firstName = user._firstName;
+            
+
+            Console.WriteLine("Soyad (mevcut: {0}): ", user._lastName);
+            userProfile._lastName = Console.ReadLine();
+
+            if (string.IsNullOrWhiteSpace(userProfile._lastName))
+                userProfile._lastName = user._lastName;
+
+            Console.WriteLine("E-posta (mevcut: {0}): ", user._email);
+            userProfile._email = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(userProfile._email))
+                userProfile._email = user._email;
+
+            Console.WriteLine("Doğum Tarihi (GG.AA.YYYY) (mevcut: {0}): ", user._dateOfBirth?.ToString("dd.MM.yyyy") ?? "Boş");
+
+            string dobInput = Console.ReadLine() ?? "";
+
+            if (string.IsNullOrWhiteSpace(dobInput))
             {
-                CreateUser();
+                userProfile._dateOfBirth = user._dateOfBirth;
             }
             else
             {
-                UserProfile userProfile = new UserProfile();
-
-                Console.WriteLine("Kullanıcı bilgilerini güncelleyin. Mevcut bilgileri değiştirmeden bırakmak için Enter'a basın.");
-                Console.WriteLine("Ad (mevcut: {0}): ", user.Value._firstName);
-                userProfile._firstName = Console.ReadLine() ?? user.Value._firstName;
-
-                Console.WriteLine("Soyad (mevcut: {0}): ", user.Value._lastName);
-                userProfile._lastName = Console.ReadLine() ?? user.Value._lastName;
-
-                Console.WriteLine("E-posta (mevcut: {0}): ", user.Value._email);
-                userProfile._email = Console.ReadLine() ?? user.Value._email;
-
-                Console.WriteLine("Doğum Tarihi (GG.AA.YYYY) (mevcut: {0}): ", user.Value._dateOfBirth?.ToString("dd.MM.yyyy") ?? "Boş");
-
-                string dobInput = Console.ReadLine() ?? "";
-
-                if (string.IsNullOrWhiteSpace(dobInput))
+                try
                 {
-                    userProfile._dateOfBirth = user.Value._dateOfBirth;
+                    userProfile._dateOfBirth = DateTime.Parse(dobInput);
                 }
-                else
+                catch
                 {
-                    try
-                    {
-                        userProfile._dateOfBirth = DateTime.Parse(dobInput);
-                    }
-                    catch
-                    {
-                        userProfile._dateOfBirth = user.Value._dateOfBirth;
-                        Console.WriteLine("Geçersiz tarih formatı. Doğum tarihi güncellenmedi.");
-                    }
+                    userProfile._dateOfBirth = user._dateOfBirth;
+                    Console.WriteLine("Geçersiz tarih formatı. Doğum tarihi güncellenmedi.");
                 }
-
-                Console.WriteLine("Konsol Yazı Rengi (örnek: Red, Green, Blue) (mevcut: {0}): ", user.Value._foreground);
-                string fgInput = Console.ReadLine() ?? "";
-                if (string.IsNullOrWhiteSpace(fgInput))
-                {
-                    userProfile._foreground = user.Value._foreground;
-                }
-                else if (Enum.TryParse<ConsoleColor>(fgInput, true, out ConsoleColor foreground))
-                {
-                    userProfile._foreground = foreground;
-                }
-                else
-                {
-                    userProfile._foreground = user.Value._foreground;
-                    Console.WriteLine("Geçersiz renk. Yazı rengi güncellenmedi.");
-                }
-                Console.WriteLine("Konsol Arka Plan Rengi (örnek: Black, DarkBlue, DarkGray) (mevcut: {0}): ", user.Value._background);
-                string bgInput = Console.ReadLine() ?? "";
-                if (string.IsNullOrWhiteSpace(bgInput))
-                {
-                    userProfile._background = user.Value._background;
-                }
-                else if (Enum.TryParse<ConsoleColor>(bgInput, true, out ConsoleColor background))
-                {
-                    userProfile._background = background;
-                }
-                else
-                {
-                    userProfile._background = user.Value._background;
-                    Console.WriteLine("Geçersiz renk. Arka plan rengi güncellenmedi.");
-                }
-
-                SaveUser(userProfile);
-                ApplyUserSettings();
             }
+
+            Console.WriteLine("Konsol Yazı Rengi (örnek: Red, Green, Blue) (mevcut: {0}): ", user._foreground);
+            string fgInput = Console.ReadLine() ?? "";
+            if (string.IsNullOrWhiteSpace(fgInput))
+            {
+                userProfile._foreground = user._foreground;
+            }
+            else if (Enum.TryParse<ConsoleColor>(fgInput, true, out ConsoleColor foreground))
+            {
+                userProfile._foreground = foreground;
+            }
+            else
+            {
+                userProfile._foreground = user._foreground;
+                Console.WriteLine("Geçersiz renk. Yazı rengi güncellenmedi.");
+            }
+            Console.WriteLine("Konsol Arka Plan Rengi (örnek: Black, DarkBlue, DarkGray) (mevcut: {0}): ", user._background);
+            string bgInput = Console.ReadLine() ?? "";
+            if (string.IsNullOrWhiteSpace(bgInput))
+            {
+                userProfile._background = user._background;
+            }
+            else if (Enum.TryParse<ConsoleColor>(bgInput, true, out ConsoleColor background))
+            {
+                userProfile._background = background;
+            }
+            else
+            {
+                userProfile._background = user._background;
+                Console.WriteLine("Geçersiz renk. Arka plan rengi güncellenmedi.");
+            }
+
+            SaveUser(userProfile);
+            ConsoleEx.Pause();
         }
 
-        public void ApplyUserSettings()
+        /// <summary>
+        /// Kısaca, kullanıcı ayarlarını konsola uygular.
+        /// </summary>
+        /// <param name="user"></param>
+        public void ApplyUserSettings(UserProfile user)
         {
-            UserProfile? user = GetUser();
-            if (user != null)
-            {
-                Console.ForegroundColor = user.Value._foreground;
-                Console.BackgroundColor = user.Value._background;
-            }
-            else
-            {
-                Console.WriteLine("Kullanıcı bulunamadı. Lütfen önce bir kullanıcı oluşturun.");
-            }
+            Console.ForegroundColor = user._foreground;
+            Console.BackgroundColor = user._background;
         }
 
-        public void DisplayUserInfo()
+
+        /// <summary>
+        /// Kullanıcı bilgilerini konsola yazdırır.
+        /// </summary>
+        /// <param name="user"></param>
+        public void DisplayUserInfo(UserProfile user)
         {
             Console.Clear();
-            UserProfile? user = GetUser();
-            if (user != null)
-            {
-                Console.WriteLine("Kullanıcı Bilgileri:");
-                Console.WriteLine("Ad: {0}", user.Value._firstName);
-                Console.WriteLine("Soyad: {0}", user.Value._lastName);
-                Console.WriteLine("E-posta: {0}", user.Value._email);
-                Console.WriteLine("Doğum Tarihi: {0}", user.Value._dateOfBirth?.ToString("dd.MM.yyyy") ?? "Boş");
-                Console.WriteLine("Yazı Rengi: {0}", user.Value._foreground);
-                Console.WriteLine("Arka Plan Rengi: {0}", user.Value._background);
-            }
-            else
-            {
-                Console.WriteLine("Kullanıcı bulunamadı. Lütfen önce bir kullanıcı oluşturun.");
-            }
+            Console.WriteLine("Kullanıcı Bilgileri:");
+            Console.WriteLine("Ad: {0}", user._firstName);
+            Console.WriteLine("Soyad: {0}", user._lastName);
+            Console.WriteLine("E-posta: {0}", user._email);
+            Console.WriteLine("Doğum Tarihi: {0}", user._dateOfBirth?.ToString("dd.MM.yyyy") ?? "Boş");
+            Console.WriteLine("Yazı Rengi: {0}", user._foreground);
+            Console.WriteLine("Arka Plan Rengi: {0}", user._background);
+            ConsoleEx.Pause();
         }
     }
 }
