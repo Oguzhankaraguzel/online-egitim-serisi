@@ -11,6 +11,7 @@ namespace swissknife.Applications
         {
             "Kullanıcı Bilgilerini Görüntüle",
             "Kullanıcı Bilgilerini Güncelle",
+            "Notlar",
             "Çıkış"
         };
         public void Run()
@@ -34,8 +35,12 @@ namespace swissknife.Applications
                         userService.ApplyUserSettings(user.Value);
                         break;
                     case 2:
+                        NoteApp noteApp = new NoteApp();
+                        noteApp.Run();
+                        break;
+                    case 3:
                     case -1:
-                        running = !ConfirmExit();
+                        running = !ConsoleEx.ConfirmExit();
                         break;
                     default:
                         break;
@@ -44,27 +49,6 @@ namespace swissknife.Applications
 
             Console.WriteLine("Güle Güle");
             ConsoleEx.Pause();
-        }
-
-        private bool ConfirmExit()
-        {
-            Console.Clear();
-        ConfirmExit:
-            Console.WriteLine("Çıkmak istediğinize emin misiniz? (E/H)");
-            ConsoleKey key = Console.ReadKey(true).Key;
-            if (key == ConsoleKey.E)
-            {
-                return true;
-            }
-            else if (key == ConsoleKey.H)
-            {
-                return false;
-            }
-            else
-            {
-                Console.WriteLine("Geçersiz seçim. Lütfen Tekrar Deneyiniz");
-                goto ConfirmExit;
-            }
         }
 
         private int ShowMenuAndGetSelectedIndex()

@@ -1,5 +1,4 @@
 ﻿using swissknife.Applications;
-using System;
 
 namespace swissknife
 {

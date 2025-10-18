@@ -1,0 +1,5 @@
+MCA uygulaması başarılı bir biçimde ilerliyor
+kullanıcı görüntüleme güncelleme selamla ve oluşturma tamamlandı
+eğer bu dosya düzgün bir biçimde editlenirse notes uygulamasıda tamamlandı demektir
+
+editlenecek yazı aşağıdadır ve silinmelidir

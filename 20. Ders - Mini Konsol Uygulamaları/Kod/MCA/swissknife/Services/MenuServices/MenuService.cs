@@ -22,14 +22,13 @@ namespace swissknife.Services.MenuServices
         /// <returns></returns>
         public int DisplayMenu()
         {
-            
             Console.CursorVisible = false;
             while (true)
             {
                 Console.Clear();
                 Console.WriteLine("Yön Tuşları İle Menüyü Kontol edebilirsiniz. Seçim İçin Enter, Çıkış İçin ESC \n");
-                Console.WriteLine(_title);
-                Console.WriteLine(new string('-', _title.Length));
+                Console.WriteLine("  " + _title);
+                Console.WriteLine(new string('-', 50));
                 RenderOptions();
                 ConsoleKey key = Console.ReadKey(true).Key;
                 if (key == ConsoleKey.UpArrow)
