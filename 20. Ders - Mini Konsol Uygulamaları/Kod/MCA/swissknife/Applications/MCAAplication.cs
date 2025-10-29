@@ -12,8 +12,10 @@ namespace swissknife.Applications
             "Kullanıcı Bilgilerini Görüntüle",
             "Kullanıcı Bilgilerini Güncelle",
             "Notlar",
+            "Adam Asmaca (Hangman)",
             "Çıkış"
         };
+
         public void Run()
         {
             UserService userService = new UserService();
@@ -39,6 +41,10 @@ namespace swissknife.Applications
                         noteApp.Run();
                         break;
                     case 3:
+                        HangmanGame hangmanGame = new HangmanGame();
+                        hangmanGame.Run();
+                        break;
+                    case 4:
                     case -1:
                         running = !ConsoleEx.ConfirmExit();
                         break;
