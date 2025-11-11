@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\applications\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\applications\\hangmangame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\applications\\mcaaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\applications\\mcaaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\applications\\graphapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\applications\\graphapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\services\\graphappservices\\graphpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\services\\graphappservices\\graphpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\services\\graphappservices\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\services\\graphappservices\\graphservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +38,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HangmanGame.cs",
-              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\HangmanGame.cs",
-              "RelativeDocumentMoniker": "swissknife\\Applications\\HangmanGame.cs",
-              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\HangmanGame.cs",
-              "RelativeToolTip": "swissknife\\Applications\\HangmanGame.cs",
-              "ViewState": "AgIAAKcAAAAAAAAAAAAmwMAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GraphPoint.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Services\\GraphAppServices\\GraphPoint.cs",
+              "RelativeDocumentMoniker": "swissknife\\Services\\GraphAppServices\\GraphPoint.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Services\\GraphAppServices\\GraphPoint.cs",
+              "RelativeToolTip": "swissknife\\Services\\GraphAppServices\\GraphPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-26T21:40:44.439Z",
+              "WhenOpened": "2025-11-07T15:32:07.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraphService.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Services\\GraphAppServices\\GraphService.cs",
+              "RelativeDocumentMoniker": "swissknife\\Services\\GraphAppServices\\GraphService.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Services\\GraphAppServices\\GraphService.cs",
+              "RelativeToolTip": "swissknife\\Services\\GraphAppServices\\GraphService.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAgwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:29:51.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GraphApp.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\GraphApp.cs",
+              "RelativeDocumentMoniker": "swissknife\\Applications\\GraphApp.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\GraphApp.cs",
+              "RelativeToolTip": "swissknife\\Applications\\GraphApp.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAYwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T15:27:23.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MCAAplication.cs",
               "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\MCAAplication.cs",
               "RelativeDocumentMoniker": "swissknife\\Applications\\MCAAplication.cs",
               "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\MCAAplication.cs",
               "RelativeToolTip": "swissknife\\Applications\\MCAAplication.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T22:58:27.601Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Program.cs",
-              "RelativeDocumentMoniker": "swissknife\\Program.cs",
-              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Program.cs",
-              "RelativeToolTip": "swissknife\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T22:28:26.693Z"
+              "WhenOpened": "2025-10-23T22:58:27.601Z",
+              "EditorCaption": ""
             }
           ]
         }

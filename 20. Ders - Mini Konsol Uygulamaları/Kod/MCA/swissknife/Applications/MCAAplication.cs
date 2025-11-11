@@ -12,6 +12,7 @@ namespace swissknife.Applications
             "Kullanıcı Bilgilerini Görüntüle",
             "Kullanıcı Bilgilerini Güncelle",
             "Notlar",
+            "Grafik Çizdir",
             "Adam Asmaca (Hangman)",
             "Çıkış"
         };
@@ -41,10 +42,14 @@ namespace swissknife.Applications
                         noteApp.Run();
                         break;
                     case 3:
+                        GraphApp graphApp = new GraphApp();
+                        graphApp.Run();
+                        break;
+                    case 4:
                         HangmanGame hangmanGame = new HangmanGame();
                         hangmanGame.Run();
                         break;
-                    case 4:
+                    case 5:
                     case -1:
                         running = !ConsoleEx.ConfirmExit();
                         break;
