@@ -22,6 +22,11 @@ namespace swissknife.Applications
             //"Notları Sil" // ödev. silinme işlemi eklenebilir.
         };
         public List<string> _documents;
+
+        /// <summary>
+        /// Not uygulamasını başlatır. Kullanıcıyı doğrular ve menü üzerinden
+        /// yeni not oluşturma veya mevcut notları düzenleme işlemlerini yönetir.
+        /// </summary>
         public void Run()
         {
             UserService userService = new UserService();
@@ -53,6 +58,10 @@ namespace swissknife.Applications
             }
         }
 
+        /// <summary>
+        /// Kullanıcının notlarının bulunduğu klasörü listeler. 
+        /// Mevcut notları menü şeklinde gösterir ve seçilen not için düzenleme ekranını açar.
+        /// </summary
         private void UpdateNote(UserProfile user)
         {
             Console.Clear();
@@ -87,6 +96,10 @@ namespace swissknife.Applications
             }
         }
 
+        /// <summary>
+        /// Seçilen dosyanın içeriğini okur, çok satırlı düzenleme ekranında kullanıcıya sunar 
+        /// ve güncellenmiş içeriği dosyaya geri yazar.
+        /// </summary>
         public void EditFile(int selectedIndex, string[] documents)
         {
             string content = File.ReadAllText(documents[selectedIndex]);
@@ -96,6 +109,10 @@ namespace swissknife.Applications
             File.WriteAllText(documents[selectedIndex], updatedContent);
         }
 
+        /// <summary>
+        /// Kullanıcıdan dosya adı ve içerik alarak yeni bir not dosyası oluşturur.
+        /// Kullanıcıya özel klasörü kontrol eder ve gerekirse oluşturur.
+        /// </summary>
         private void CreateNewNote(UserProfile user)
         {
             Console.Clear();

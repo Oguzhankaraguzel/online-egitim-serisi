@@ -14,9 +14,14 @@ namespace swissknife.Applications
             "Notlar",
             "Grafik Çizdir",
             "Adam Asmaca (Hangman)",
+            "Yılan (Snake)",
             "Çıkış"
         };
 
+        /// <summary>
+        /// Uygulamayı başlatır, kullanıcıyı karşılar ve ana menüyü görüntüleyerek 
+        /// seçilen işlem doğrultusunda ilgili uygulamaları çalıştırır.
+        /// </summary>
         public void Run()
         {
             UserService userService = new UserService();
@@ -50,6 +55,10 @@ namespace swissknife.Applications
                         hangmanGame.Run();
                         break;
                     case 5:
+                        SnakeGame snakeGame = new SnakeGame();
+                        snakeGame.Run();
+                        break;
+                    case 6:
                     case -1:
                         running = !ConsoleEx.ConfirmExit();
                         break;
@@ -62,6 +71,10 @@ namespace swissknife.Applications
             ConsoleEx.Pause();
         }
 
+        /// <summary>
+        /// Ana menüyü oluşturur ve kullanıcıdan seçim yapmasını ister.
+        /// Seçilen menü öğesinin dizin numarasını döner.
+        /// </summary>
         private int ShowMenuAndGetSelectedIndex()
         {
             MenuService menuService = new MenuService("Ana Menü", _menuItems);

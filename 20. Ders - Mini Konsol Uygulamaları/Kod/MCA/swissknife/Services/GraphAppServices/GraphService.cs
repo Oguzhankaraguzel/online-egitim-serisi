@@ -5,6 +5,10 @@ namespace swissknife.Services.GraphAppServices
 {
     public struct GraphService
     {
+        /// <summary>
+        /// Verilen noktalar listesini kullanarak, belirlenen boyutta bir tuval üzerinde
+        /// koordinat eksenleriyle birlikte ASCII tabanlı bir grafik üretir ve string olarak döndürür.
+        /// </summary>
         public string DrawGraph(List<GraphPoint> points, int maxWH)
         {
             //25 
@@ -27,6 +31,11 @@ namespace swissknife.Services.GraphAppServices
             return result;
         }
 
+        /// <summary>
+        /// Noktalar arasına, iki nokta arasındaki doğrultuyu temsil edecek şekilde
+        /// noktalar (.) çizerek basit bir çizgi efekti uygular.
+        /// Yetersiz nokta sayısında (2'den az) tuvali değiştirmeden geri döner.
+        /// </summary>
         public char[,] DrawDotBetweenPoints(List<GraphPoint> points, char[,] canvas, int maxWH)
         {
             if (points.Count < 2)
@@ -79,6 +88,11 @@ namespace swissknife.Services.GraphAppServices
             return canvas;
         }
 
+        /// <summary>
+        /// Verilen noktaları, tuval üzerindeki merkez nokta baz alınarak
+        /// uygun X ve Y koordinatlarına yerleştirir.
+        /// Noktalar '*' ile, eksenlerle çakışan noktalar '+' ile işaretlenir.
+        /// </summary>
         public char[,] DrawPointOnCanvas(List<GraphPoint> points, char[,] canvas, int maxWH)
         {
             int center = maxWH / 2;
@@ -97,6 +111,12 @@ namespace swissknife.Services.GraphAppServices
             }
             return canvas;
         }
+
+        /// <summary>
+        /// Belirtilen boyutta boş bir tuval hazırlar.
+        /// X ve Y eksenlerini orta noktadan geçecek şekilde çizer
+        /// ve orijini '+' karakteriyle işaretler.
+        /// </summary>
         public char[,] PrepareCanvas(int maxWH)
         {
             char[,] canvas = new char[maxWH, maxWH];
@@ -113,6 +133,13 @@ namespace swissknife.Services.GraphAppServices
             canvas[maxWH / 2, maxWH / 2] = '+';
             return canvas;
         }
+
+        /// <summary>
+        /// Verilen noktalar listesini, belirtilen tuval boyutuna sığacak şekilde ölçekler.
+        /// En büyük mutlak koordinat değerine göre bir ölçek katsayısı hesaplanır
+        /// ve tüm noktalar bu katsayı ile çarpılarak yeni bir liste olarak döndürülür.
+        /// Ölçek katsayısı out parametre ile dışarıya verilir.
+        /// </summary>
         public List<GraphPoint> ScalePoints(List<GraphPoint> points, int maxWH, out double scale)
         {
             List<GraphPoint> scaledPoints = new List<GraphPoint>();

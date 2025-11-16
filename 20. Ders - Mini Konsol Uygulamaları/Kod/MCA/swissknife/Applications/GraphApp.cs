@@ -3,7 +3,6 @@ using swissknife.Services.GraphAppServices;
 using swissknife.Services.MenuServices;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace swissknife.Applications
 {
@@ -22,6 +21,9 @@ namespace swissknife.Applications
             "Grafik Çizdir",
         };
 
+        /// <summary>
+        /// Uygulamayı başlatır. Menü servisini kullanarak kullanıcıya seçenekleri sunar ve seçilen seçeneğe göre ilgili işlemleri (nokta ekleme, noktaları görüntüleme, grafiği çizdirme veya çıkış) yönetir.
+        /// </summary>
         public void Run()
         {
             SafeStart(false);
@@ -41,7 +43,7 @@ namespace swissknife.Applications
                         ViewPoints();
                         break;
                     case 2:
-                        Render(graphService);
+                        Render(ref graphService);
                         break;
                     case -1:
                         running = !ConsoleEx.ConfirmExit();
@@ -53,7 +55,11 @@ namespace swissknife.Applications
 
         }
 
-        public void Render(GraphService service)
+        /// <summary>
+        /// Girilen noktaları ekrana çizilebilir boyuta ölçekler, grafiği ASCII biçiminde üretir ve ölçek bilgisi ile birlikte tüm noktaları ve grafiği konsola yazdırır.
+        /// </summary>
+        /// <param name="service"></param>
+        public void Render(ref GraphService service)
         {
             SafeStart(false);
 
@@ -75,6 +81,9 @@ namespace swissknife.Applications
             ConsoleEx.Pause();
         }
 
+        /// <summary>
+        /// Kayıtlı noktaları listeler. Eğer hiç nokta yoksa kullanıcıya bilgilendirme mesajı gösterir.
+        /// </summary>
         public void ViewPoints()
         {
             //Todo: Noktalar için ekleme silme güncelleme fonksiyonları ekle. Ödev!
@@ -96,6 +105,9 @@ namespace swissknife.Applications
             }
         }
 
+        /// <summary>
+        /// Kullanıcıdan X ve Y koordinatlarını alır, sayı doğrulaması yapar ve geçerli koordinatlarla yeni bir GraphPoint nesnesi oluşturup listeye ekler.
+        /// </summary>
         public void AddPoint()
         {
             /*
@@ -134,6 +146,10 @@ namespace swissknife.Applications
             _points.Add(newPoint);
         }
 
+        /// <summary>
+        /// Ekranı temizler, imleç görünürlüğünü ayarlar ve nokta listesinin (_points) null olup olmadığını kontrol ederek gerekiyorsa yeni bir liste başlatır. Uygulama akışındaki ekran hazırlık işlemlerini yapar.
+        /// </summary>
+        /// <param name="cursorVisible"></param>
         public void SafeStart(bool cursorVisible) 
         {
             Console.Clear();

@@ -20,6 +20,10 @@ namespace swissknife.Applications
         public string _maskedWord;
         public int _wrongAttempts;
         public const int _maxWrongAttempts = 6;
+
+        /// <summary>
+        /// Oyunu başlatır, kullanıcıyı doğrular, kelime grubunu seçtirir ve oyun döngüsünü yönetir.
+        /// </summary>
         public void Run()
         {
             UserService userService = new UserService();
@@ -48,6 +52,10 @@ namespace swissknife.Applications
             return;
         }
 
+        /// <summary>
+        /// Oyun bittikten sonra çıkış veya yeni kelime grubu seçme işlemini yönetir.
+        /// ESC → çıkış, ENTER → yeni oyun.
+        /// </summary>
         public bool HandleEndSession()
         {
             Console.WriteLine($"{_tenSpaces}Çıkmak İçin ESC, Yeni Kelime Grubu Seçmek İçin Enter");
@@ -60,6 +68,10 @@ namespace swissknife.Applications
             goto HandleEndSession;
         }
 
+        /// <summary>
+        /// Kullanıcı girişlerini (harf tahmini veya ESC ile çıkış) işler.
+        /// Tahminin doğruluğuna göre skor, maskeleme ve hata sayısını günceller.
+        /// </summary>
         public bool HandleInput(ref UserProfile? user)
         {
             ConsoleKeyInfo keyInfo = Console.ReadKey(true);
@@ -119,6 +131,9 @@ namespace swissknife.Applications
             return true;
         }
 
+        /// <summary>
+        /// En iyi skor güncellemesi gerekiyorsa, skor bilgisini kullanıcının klasörüne kaydeder.
+        /// </summary>
         private void SaveBestScore(UserProfile user)
         {
             if (_score < _bestScore) return;
@@ -132,6 +147,9 @@ namespace swissknife.Applications
             File.WriteAllText(filePath, scoreJson);
         }
 
+        /// <summary>
+        /// Konsol arayüzünü temizler ve mevcut oyun durumunu (çerçeve, skor, kelime maskesi vs.) ekrana çizer.
+        /// </summary>
         public void Render()
         {
             Console.Clear();
@@ -146,6 +164,10 @@ namespace swissknife.Applications
             Console.WriteLine($"{_tenSpaces}Tahmininiz İçin Bir Tuşa Basınız. (Oyunu sonlandırmak için Esc'ye basınız)");
         }
 
+        /// <summary>
+        /// Yeni bir oyun başlatmak için skor, hata sayısı ve kelime grubunu sıfırlar. 
+        /// Kullanıcının seçtiği kelime grubundan rastgele bir kelime belirler ve maskeler.
+        /// </summary>
         public bool InitializeGame(UserProfile user)
         {
             _bestScore = GetBestScoreOrDefault(user);
@@ -172,6 +194,10 @@ namespace swissknife.Applications
             return true;
         }
 
+        /// <summary>
+        /// Kullanıcının daha önce kaydedilmiş en iyi skorunu okur.
+        /// Kayıt yoksa varsayılan olarak 0 döner.
+        /// </summary>
         public int GetBestScoreOrDefault(UserProfile user)
         {
             string path = Path.Combine("data", "Games", user._firstName);
