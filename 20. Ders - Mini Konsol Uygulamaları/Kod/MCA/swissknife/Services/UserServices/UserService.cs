@@ -39,6 +39,11 @@ namespace swissknife.Services.UserServices
             FileService fileService = new FileService();
             fileService.EnsureDirectory(_dataDir);
 
+            if (!File.Exists(_userPath))
+            {
+                return null;
+            }
+
             string userJson = File.ReadAllText(_userPath);
             return JsonSerializer.Deserialize<UserProfile>(userJson, _serializeOption);
         }

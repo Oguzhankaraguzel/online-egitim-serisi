@@ -3,7 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon>ChatGPT Image 16 Kas 2025 17_06_57.ico</ApplicationIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ChatGPT Image 16 Kas 2025 17_06_57.ico" />
+  </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Data\" />

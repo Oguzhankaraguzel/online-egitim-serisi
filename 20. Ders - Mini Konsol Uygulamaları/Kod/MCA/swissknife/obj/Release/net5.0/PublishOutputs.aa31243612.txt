@@ -1,0 +1,5 @@
+C:\Users\Oguzh\OneDrive\Masaüstü\MCA\swissknife.exe
+C:\Users\Oguzh\OneDrive\Masaüstü\MCA\swissknife.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\MCA\swissknife.deps.json
+C:\Users\Oguzh\OneDrive\Masaüstü\MCA\swissknife.runtimeconfig.json
+C:\Users\Oguzh\OneDrive\Masaüstü\MCA\swissknife.pdb
