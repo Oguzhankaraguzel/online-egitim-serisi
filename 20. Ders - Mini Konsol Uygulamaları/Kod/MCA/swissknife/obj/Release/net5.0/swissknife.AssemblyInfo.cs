@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("swissknife")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7744be692012f4c7d974ba8a792c27c7f5d5ea39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfe7795e87288366665045a4f1e348d8e132e8e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("swissknife")]
 [assembly: System.Reflection.AssemblyTitleAttribute("swissknife")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

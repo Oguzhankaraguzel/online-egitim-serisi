@@ -14,3 +14,7 @@ C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol U
 C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Release\net5.0\swissknife.pdb
 C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Release\net5.0\swissknife.genruntimeconfig.cache
 C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Release\net5.0\ref\swissknife.dll
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Release\net5.0\swissknife.dll.manifest
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\bin\Release\net5.0\swissknife.application
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Release\net5.0\swissknife.dll.manifest
+C:\Users\Oguzh\OneDrive\Masaüstü\online-egitim-serisi\20. Ders - Mini Konsol Uygulamaları\Kod\MCA\swissknife\obj\Release\net5.0\swissknife.application

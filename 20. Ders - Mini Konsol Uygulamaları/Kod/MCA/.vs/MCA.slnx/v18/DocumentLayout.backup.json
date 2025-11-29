@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\swissknife.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\swissknife.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\applications\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|solutionrelative:swissknife\\applications\\snakegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7378F0C-819D-6F61-23E7-F0C1D5B77F58}|swissknife\\swissknife.csproj|c:\\users\\oguzh\\onedrive\\masa\u00FCst\u00FC\\online-egitim-serisi\\20. ders - mini konsol uygulamalar\u0131\\kod\\mca\\swissknife\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -35,13 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "swissknife",
-              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\swissknife.csproj",
-              "RelativeDocumentMoniker": "swissknife\\swissknife.csproj",
-              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\swissknife.csproj",
-              "RelativeToolTip": "swissknife\\swissknife.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-16T16:00:21.577Z",
+              "Title": "SnakeGame.cs",
+              "DocumentMoniker": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\SnakeGame.cs",
+              "RelativeDocumentMoniker": "swissknife\\Applications\\SnakeGame.cs",
+              "ToolTip": "C:\\Users\\Oguzh\\OneDrive\\Masa\u00FCst\u00FC\\online-egitim-serisi\\20. Ders - Mini Konsol Uygulamalar\u0131\\Kod\\MCA\\swissknife\\Applications\\SnakeGame.cs*",
+              "RelativeToolTip": "swissknife\\Applications\\SnakeGame.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T12:52:29.119Z",
               "EditorCaption": ""
             },
             {
@@ -78,8 +79,7 @@
               "RelativeToolTip": "swissknife\\Properties\\PublishProfiles\\FolderProfile.pubxml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-11-16T15:43:27.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-16T15:43:27.173Z"
             }
           ]
         }
